@@ -2,6 +2,8 @@
 
 - [手写 nodejs 服务器](https://juejin.cn/post/6887797543212843016)
 
+- [手写 express 服务器](https://juejin.cn/post/6890358903960240142)
+
 ## XMLHttpRequest 和 fetch 是浏览器 API，node.js 中无法直接使用。
 
 - 如果想用 fetch，需要安装 node-fetch 包。
